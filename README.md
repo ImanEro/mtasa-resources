@@ -1,2 +1,2 @@
-# open-resources
+# mta-resources
 Public MTA Resource for everyone
