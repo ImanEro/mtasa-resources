@@ -1,0 +1,9 @@
+<meta>
+    <info author="Iman Ero" version="1.0.0" type="script" name="firework" description="Make cool firework with sound for parties and more" />
+    <script src="firework_c.lua" type="client"/>
+    <script src="firework_s.lua" type="server"/>
+    <file src="pop.mp3"/>
+    <file src="shot.mp3"/>
+    <file src="spray-start.mp3"/>
+    <file src="spray.mp3"/>
+</meta>
